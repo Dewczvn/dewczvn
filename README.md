@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0eTlwNGFpMm12MmI5OGt4cTluNTI5eHJ1czZ0eXQ3b3Qzd2Q2cyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/v1.Y2lkPTc5MGI3NjExbmZ0eTlwNGFpMm12MmI5OGt4cTluNTI5eHJ1czZ0eXQ3b3Qzd2Q2cyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/Wlth4227nKjQzW0Q/giphy.gif" alt="Aesthetic Anime Minimalist" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/working-girl-with-6-hands.gif" alt="Anime Aesthetic Lo-Fi Coding" width="500px"/>
   
   <h1>🌌 Selamat Datang di Dimensi Kodeku (The Code Dimension) 💾</h1>
   <p><i>"Hidup itu seperti komputasi, harus terus mencoba dan mencari solusi."</i></p>
