@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="yo hello gif.gif" />
+  <img src="![Yo Hello GIF](https://github.com/user-attachments/assets/fe13193d-b3ae-4daa-8e75-9c239ea441a3)
+" />
   
   <h1>🌺 welcome to my profile 🌺</h1>
   <p><i>"The goal is not to be perfect, but to be effective."</i></p>
