@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="![Yo Hello GIF - Copy](https://github.com/user-attachments/assets/c41c8f15-70c8-4360-bfd3-977f5d5943ad)
+![Yo Hello GIF - Copy](https://github.com/user-attachments/assets/c41c8f15-70c8-4360-bfd3-977f5d5943ad)
 
-" />
+
   
   <h1>🌺 welcome to my profile 🌺</h1>
   <p><i>"The goal is not to be perfect, but to be effective."</i></p>
