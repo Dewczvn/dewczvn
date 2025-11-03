@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="![Yo Hello GIF](https://github.com/user-attachments/assets/fe13193d-b3ae-4daa-8e75-9c239ea441a3)
+  <img src="![Yo Hello GIF - Copy](https://github.com/user-attachments/assets/c41c8f15-70c8-4360-bfd3-977f5d5943ad)
+
 " />
   
   <h1>🌺 welcome to my profile 🌺</h1>
